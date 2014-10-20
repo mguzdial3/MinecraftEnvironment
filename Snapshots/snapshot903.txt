@@ -1,0 +1,7 @@
+NPC Enemies List 5
+NPC 0000 Movement 8.929797 2.994479 10.01371 8 2 10  Appearance 2 
+NPC 0001 Movement -5 2.98 2 -5 2 2  Appearance 2 
+NPC 0002 Movement -4 2.98 8 -4 2 8  Appearance 2 
+NPC 0003 Movement -3 5.98 0 -3 5 0  Appearance 2 
+NPC 0004 Movement -1 2.98 -9 -1 2 -9  Appearance 2 
+Map31
